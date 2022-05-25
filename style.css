@@ -1,0 +1,20 @@
+.photo{
+    height: 300px;
+    width: 500px;
+    bottom: 10px;
+}
+.image{
+    top: 10px;
+    left: 10px;
+    height: 2%;
+    width: 2%;
+}
+.osnov{
+    background-color: rgb(165, 255, 202);
+    height: 850px;
+    width: 1900px;
+}
+.text{
+    height: 230px;
+    width: 500px;
+}
