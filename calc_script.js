@@ -52,6 +52,9 @@ class Calculator {
         case '^':
           computation =  Math.pow(prev, current)
         break
+        case '^2':
+          computation =  Math.pow(prev, 2)
+        break
         case 'sin':
           computation = Math.sin((current / 180) * Math.PI)
           break
